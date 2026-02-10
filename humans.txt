@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Christos Mitragkas -- test email -- test twitter
 
 # THANKS
 
